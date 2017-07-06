@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>sunilpatro1985</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://sunilpatro1985.github.io/"/>
+  <updated>2017-07-06T12:25:33.562Z</updated>
+  <id>http://sunilpatro1985.github.io/</id>
+  
+  <author>
+    <name>sunilpatro1985</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How to add google adsense to hexo blog posts</title>
+    <link href="http://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
+    <id>http://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
+    <published>2017-07-06T12:06:45.000Z</published>
+    <updated>2017-07-06T12:25:33.562Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/GoogleAdsenseforHexoblog.png" alt=""></p>
+<p>Create a google adsense account<br>Create an add unit and get the code<br><a id="more"></a><br>Then, move to your themes folder &gt; respective theme &gt; layout<br>create a folder <code>googleadds</code><br>create a file under <code>/googleadds</code>, name it <code>headeradd.ejs</code><br>Paste the content copied from add unit in google adsense</p>
+<p><img src="/images/Folder structure for google add setup.JPG" alt=""></p>
+<p>Now, navigate to layout.ejs and place the below at location where you want to display the add</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;%- partial(&apos;googleadds/headeradd&apos;) %&gt;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/GoogleAdsenseforHexoblog.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Create a google adsense account&lt;br&gt;Create an add unit and get the code&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Blog" scheme="http://sunilpatro1985.github.io/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Who am I</title>
+    <link href="http://sunilpatro1985.github.io/Personal/AboutMe/"/>
+    <id>http://sunilpatro1985.github.io/Personal/AboutMe/</id>
+    <published>2017-07-05T09:28:27.906Z</published>
+    <updated>2017-07-06T12:03:55.656Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Me.jpg" alt=""></p>
+<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>Myself <strong><code>Sunil</code></strong>, not enough, right!!!<br><a id="more"></a></p>
+<p>.<br>.<br>.<br>.</p>
+<p><strong><code>QA analyst</code></strong> as full time job </p>
+<p><strong><code>Blogger</code></strong> as part time</p>
+<h2 id="Want-more"><a href="#Want-more" class="headerlink" title="Want more!"></a>Want more!</h2><p><code>Internet surfer</code> who spends free time to know about latest technology and internet trending topics on open source tools across globe.</p>
+<p>Love to spend time with family and friends.</p>
+<p>Any queries, do not hesitate to email me <a href="mailto:sunilpatro1985@gmail.com" target="_blank" rel="external">here</a> </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Me.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h2&gt;&lt;p&gt;Myself &lt;strong&gt;&lt;code&gt;Sunil&lt;/code&gt;&lt;/strong&gt;, not enough, right!!!&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Personal" scheme="http://sunilpatro1985.github.io/categories/Personal/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Open source blog making framework - Hexo</title>
+    <link href="http://sunilpatro1985.github.io/Blog/How_to_use_Hexo/"/>
+    <id>http://sunilpatro1985.github.io/Blog/How_to_use_Hexo/</id>
+    <published>2017-07-05T09:13:30.231Z</published>
+    <updated>2017-07-06T13:17:42.401Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/hexo_github.png" alt=""></p>
+<p>Welcome to my blog to know about a open source blog framework <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>!<br>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
+<p>Find most of your answers in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or ask on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h3><p>Visual studio code<br>Github account<br>Install <a href="https://git-scm.com/" target="_blank" rel="external">git</a><br>Install <a href="https://nodejs.org" target="_blank" rel="external">node.js</a></p>
+<p>Create a folder <strong>say c:\Hexo</strong> on your machine, and open the folder in VSCode, then follow below steps</p>
+<h3 id="Install-Hexo"><a href="#Install-Hexo" class="headerlink" title="Install Hexo"></a>Install Hexo</h3><p>Open command prompt <strong>ctrl+`</strong> and execute<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-cli</div></pre></td></tr></table></figure></p>
+<p>Once installed Hexo, check the hexo installation using below command</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo --version</div></pre></td></tr></table></figure>
+<h3 id="Create-a-blog"><a href="#Create-a-blog" class="headerlink" title="Create a blog"></a>Create a blog</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">hexo init myblog</div><div class="line">cd myblog</div><div class="line">npm install</div></pre></td></tr></table></figure>
+<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="See-the-blog"><a href="#See-the-blog" class="headerlink" title="See the blog"></a>See the blog</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a><br>Open browser and type <a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a> to see your blog</p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deployment-using-github-account"><a href="#Deployment-using-github-account" class="headerlink" title="Deployment using github account"></a>Deployment using github account</h3><p>Create a github repository<br>For my account sunilpatro1985, I will create a repository as <strong>sunilpatro1985.github.io</strong><br>Note: Select public and add.gitignore as <strong>Node</strong></p>
+<p>Site url will be now <strong><a href="https://sunilpatro1985.github.io">https://sunilpatro1985.github.io</a></strong></p>
+<p>but we are not done yet, we have to deploy our blog to git</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install hexo-deployer-git --save</div></pre></td></tr></table></figure>
+<p>Get the repository weburl from github (on the github repository, click on clone or download button and copy the web url)</p>
+<p>Now on the <strong>_config.yaml</strong> file, update the deploy section<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: https://github.com/sunilpatro1985/sunilpatro1985.github.io.git</div><div class="line">  branch: master</div><div class="line">  message: &quot;&#123;&#123; now(&apos;YYYY-MM-DD HH:mm:ss&apos;)&#125;&#125;&quot;</div></pre></td></tr></table></figure></p>
+<p>Once done, now deploy to see the blog live </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<p>Navigate to sunilpatro1985.github.io on browser to see the blog live!!!</p>
+<h2 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h2><p>Some times deploy gives message <strong>nothing to commit</strong>, then try with <code>hexo clean</code> and then<br><code>hexo deploy</code></p>
+<p><a href="https://malekbenz.com/blog/2016/09/10/Create-Host-Blog-for-free-with-Hexo-Github" target="_blank" rel="external">Source</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/hexo_github.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to my blog to know about a open source blog framework &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;!&lt;br&gt;Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. &lt;/p&gt;
+&lt;p&gt;Find most of your answers in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or ask on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Blog" scheme="http://sunilpatro1985.github.io/categories/Blog/"/>
+    
+    
+  </entry>
+  
+</feed>
