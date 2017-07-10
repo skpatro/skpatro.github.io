@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sunilpatro1985.github.io/"/>
-  <updated>2017-07-06T14:57:39.265Z</updated>
+  <updated>2017-07-07T13:25:38.030Z</updated>
   <id>http://sunilpatro1985.github.io/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github text formatting - Markdown References</title>
+    <link href="http://sunilpatro1985.github.io/github/GithubMarkdownReferences/"/>
+    <id>http://sunilpatro1985.github.io/github/GithubMarkdownReferences/</id>
+    <published>2017-07-07T13:12:11.148Z</published>
+    <updated>2017-07-07T13:25:38.030Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h2><p>Markdown is an easy-to-read, easy-to-write syntax for formatting plain text.</p>
+<p>Markdown basically helps formatting words as bold or italic, adding images, and creating lists. </p>
+<p>Below are few links that will help you understanding more </p>
+<ul>
+<li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">https://guides.github.com/features/mastering-markdown/</a></li>
+<li><a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/" target="_blank" rel="external">https://help.github.com/articles/basic-writing-and-formatting-syntax/</a></li>
+<li><a href="https://help.github.com/articles/organizing-information-with-tables/" target="_blank" rel="external">https://help.github.com/articles/organizing-information-with-tables/</a></li>
+<li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="external">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Markdown&quot;&gt;&lt;a href=&quot;#Markdown&quot; class=&quot;headerlink&quot; title=&quot;Markdown&quot;&gt;&lt;/a&gt;Markdown&lt;/h2&gt;&lt;p&gt;Markdown is an easy-to-read, easy-to-write syn
+    
+    </summary>
+    
+      <category term="github" scheme="http://sunilpatro1985.github.io/categories/github/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>How to add google adsense to hexo blog</title>
@@ -45,7 +74,7 @@
     <link href="http://sunilpatro1985.github.io/Personal/AboutMe/"/>
     <id>http://sunilpatro1985.github.io/Personal/AboutMe/</id>
     <published>2017-07-05T09:28:27.906Z</published>
-    <updated>2017-07-06T12:03:55.656Z</updated>
+    <updated>2017-07-07T11:34:52.061Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/Me.jpg" alt=""></p>
 <h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>Myself <strong><code>Sunil</code></strong>, not enough, right!!!<br><a id="more"></a></p>
