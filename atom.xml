@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sunilpatro1985.github.io/"/>
-  <updated>2017-07-07T13:25:38.030Z</updated>
+  <updated>2017-07-10T12:09:04.900Z</updated>
   <id>http://sunilpatro1985.github.io/</id>
   
   <author>
@@ -20,9 +20,11 @@
     <link href="http://sunilpatro1985.github.io/github/GithubMarkdownReferences/"/>
     <id>http://sunilpatro1985.github.io/github/GithubMarkdownReferences/</id>
     <published>2017-07-07T13:12:11.148Z</published>
-    <updated>2017-07-07T13:25:38.030Z</updated>
+    <updated>2017-07-10T12:09:04.900Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h2><p>Markdown is an easy-to-read, easy-to-write syntax for formatting plain text.</p>
+    <content type="html"><![CDATA[<div class="alert danger no-icon"><p>Markdown is an easy to read / write syntax for formatting plain text.</p>
+</div>
+<a id="more"></a>
 <p>Markdown basically helps formatting words as bold or italic, adding images, and creating lists. </p>
 <p>Below are few links that will help you understanding more </p>
 <ul>
@@ -35,7 +37,8 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Markdown&quot;&gt;&lt;a href=&quot;#Markdown&quot; class=&quot;headerlink&quot; title=&quot;Markdown&quot;&gt;&lt;/a&gt;Markdown&lt;/h2&gt;&lt;p&gt;Markdown is an easy-to-read, easy-to-write syn
+      &lt;div class=&quot;alert danger no-icon&quot;&gt;&lt;p&gt;Markdown is an easy to read / write syntax for formatting plain text.&lt;/p&gt;
+&lt;/div&gt;
     
     </summary>
     
@@ -49,10 +52,15 @@
     <link href="http://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
     <id>http://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
     <published>2017-07-06T12:06:45.000Z</published>
-    <updated>2017-07-06T14:57:39.265Z</updated>
+    <updated>2017-07-10T12:09:10.927Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/GoogleAdsenseforHexoblog.jpg" alt=""></p>
-<p>Create a google adsense account<br>Create an add unit and get the code<br><a id="more"></a><br>Then, move to your themes folder &gt; respective theme &gt; layout<br>create a folder <code>googleadds</code><br>create a file under <code>/googleadds</code>, name it <code>headeradd.ejs</code><br>Paste the content copied from add unit in google adsense</p>
+<div class="alert info no-icon"><p>We will see how we can add google adds in to Hexo blog posts</p>
+</div>
+<a id="more"></a>
+<p>Create a google adsense account</p>
+<p>Create an add unit and get the code</p>
+<p>Then, move to your themes folder &gt; respective theme &gt; layout<br>create a folder <code>googleadds</code><br>create a file under <code>/googleadds</code>, name it <code>headeradd.ejs</code><br>Paste the content copied from add unit in google adsense</p>
 <p><img src="/images/Folder structure for google add setup.JPG" alt=""></p>
 <p>Now, navigate to layout.ejs and place the below at location where you want to display the add</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;%- partial(&apos;googleadds/headeradd&apos;) %&gt;</div></pre></td></tr></table></figure>]]></content>
@@ -60,7 +68,8 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;/images/GoogleAdsenseforHexoblog.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Create a google adsense account&lt;br&gt;Create an add unit and get the code&lt;br&gt;
+&lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;We will see how we can add google adds in to Hexo blog posts&lt;/p&gt;
+&lt;/div&gt;
     
     </summary>
     
@@ -74,11 +83,10 @@
     <link href="http://sunilpatro1985.github.io/Personal/AboutMe/"/>
     <id>http://sunilpatro1985.github.io/Personal/AboutMe/</id>
     <published>2017-07-05T09:28:27.906Z</published>
-    <updated>2017-07-07T11:34:52.061Z</updated>
+    <updated>2017-07-10T12:13:31.399Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/Me.jpg" alt=""></p>
-<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>Myself <strong><code>Sunil</code></strong>, not enough, right!!!<br><a id="more"></a></p>
-<p>.<br>.<br>.<br>.</p>
+    <content type="html"><![CDATA[<p><img src="/images/Me.jpg" alt=""><br><div class="alert success no-icon"><p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
+</div><br><a id="more"></a><br>.<br>.<br>.<br>.</p>
 <p><strong><code>QA analyst</code></strong> as full time job </p>
 <p><strong><code>Blogger</code></strong> as part time</p>
 <h2 id="Want-more"><a href="#Want-more" class="headerlink" title="Want more!"></a>Want more!</h2><p><code>Internet surfer</code> who spends free time to know about latest technology and internet trending topics on open source tools across globe.</p>
@@ -88,8 +96,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/images/Me.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h2&gt;&lt;p&gt;Myself &lt;strong&gt;&lt;code&gt;Sunil&lt;/code&gt;&lt;/strong&gt;, not enough, right!!!&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/Me.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;div class=&quot;alert success no-icon&quot;&gt;&lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
+&lt;/div&gt;&lt;br&gt;
     
     </summary>
     
@@ -103,11 +111,11 @@
     <link href="http://sunilpatro1985.github.io/Blog/How_to_use_Hexo/"/>
     <id>http://sunilpatro1985.github.io/Blog/How_to_use_Hexo/</id>
     <published>2017-07-05T09:13:30.231Z</published>
-    <updated>2017-07-06T14:56:42.101Z</updated>
+    <updated>2017-07-10T12:11:18.264Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/CreateABlogUsingHexoandGitHub.JPG" alt=""></p>
-<p>Welcome to my blog to know about a open source blog framework <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>!<br>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
-<p>Find most of your answers in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or ask on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p><img src="/images/CreateABlogUsingHexoandGitHub.JPG" alt=""><br><div class="alert warning no-icon"><p>Welcome to my blog to know about a open source blog framework <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
+</div><br><a id="more"></a><br>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
+<p>Find most of your answers in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or ask on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h3><p>Visual studio code<br>Github account<br>Install <a href="https://git-scm.com/" target="_blank" rel="external">git</a><br>Install <a href="https://nodejs.org" target="_blank" rel="external">node.js</a></p>
 <p>Create a folder <strong>say c:\Hexo</strong> on your machine, and open the folder in VSCode, then follow below steps</p>
 <h3 id="Install-Hexo"><a href="#Install-Hexo" class="headerlink" title="Install Hexo"></a>Install Hexo</h3><p>Open command prompt <strong>ctrl+`</strong> and execute<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-cli</div></pre></td></tr></table></figure></p>
@@ -136,9 +144,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/images/CreateABlogUsingHexoandGitHub.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to my blog to know about a open source blog framework &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;!&lt;br&gt;Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. &lt;/p&gt;
-&lt;p&gt;Find most of your answers in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or ask on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/CreateABlogUsingHexoandGitHub.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;div class=&quot;alert warning no-icon&quot;&gt;&lt;p&gt;Welcome to my blog to know about a open source blog framework &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
+&lt;/div&gt;&lt;br&gt;
     
     </summary>
     
