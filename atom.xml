@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://skpatro.github.io/"/>
+  <link href="https://skpatro.github.io/"/>
   <updated>2018-02-01T10:02:32.495Z</updated>
-  <id>http://skpatro.github.io/</id>
+  <id>https://skpatro.github.io/</id>
   
   <author>
     <name>SKPatro</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Know what is github push pull requests</title>
-    <link href="http://skpatro.github.io/github/github-repository-push-pull-requests/"/>
-    <id>http://skpatro.github.io/github/github-repository-push-pull-requests/</id>
+    <link href="https://skpatro.github.io/github/github-repository-push-pull-requests/"/>
+    <id>https://skpatro.github.io/github/github-repository-push-pull-requests/</id>
     <published>2018-02-01T07:03:31.492Z</published>
     <updated>2018-02-01T10:02:32.495Z</updated>
     
@@ -42,15 +42,15 @@
     
     </summary>
     
-      <category term="github" scheme="http://skpatro.github.io/categories/github/"/>
+      <category term="github" scheme="https://skpatro.github.io/categories/github/"/>
     
     
   </entry>
   
   <entry>
     <title>Github text formatting - Markdown References</title>
-    <link href="http://skpatro.github.io/github/GithubMarkdownReferences/"/>
-    <id>http://skpatro.github.io/github/GithubMarkdownReferences/</id>
+    <link href="https://skpatro.github.io/github/GithubMarkdownReferences/"/>
+    <id>https://skpatro.github.io/github/GithubMarkdownReferences/</id>
     <published>2017-07-07T13:12:11.148Z</published>
     <updated>2018-02-01T09:15:53.636Z</updated>
     
@@ -78,15 +78,15 @@
     
     </summary>
     
-      <category term="github" scheme="http://skpatro.github.io/categories/github/"/>
+      <category term="github" scheme="https://skpatro.github.io/categories/github/"/>
     
     
   </entry>
   
   <entry>
     <title>How to add google adsense to hexo blog</title>
-    <link href="http://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
-    <id>http://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
+    <link href="https://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
+    <id>https://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
     <published>2017-07-06T12:06:45.000Z</published>
     <updated>2018-02-01T09:09:05.345Z</updated>
     
@@ -113,15 +113,15 @@ this is comment
     
     </summary>
     
-      <category term="Blog" scheme="http://skpatro.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="https://skpatro.github.io/categories/Blog/"/>
     
     
   </entry>
   
   <entry>
     <title>Who am I</title>
-    <link href="http://skpatro.github.io/Personal/AboutMe/"/>
-    <id>http://skpatro.github.io/Personal/AboutMe/</id>
+    <link href="https://skpatro.github.io/Personal/AboutMe/"/>
+    <id>https://skpatro.github.io/Personal/AboutMe/</id>
     <published>2017-07-05T09:28:27.906Z</published>
     <updated>2018-02-01T09:09:51.080Z</updated>
     
@@ -145,15 +145,15 @@ this is comment
     
     </summary>
     
-      <category term="Personal" scheme="http://skpatro.github.io/categories/Personal/"/>
+      <category term="Personal" scheme="https://skpatro.github.io/categories/Personal/"/>
     
     
   </entry>
   
   <entry>
     <title>Open source blog making framework - Hexo</title>
-    <link href="http://skpatro.github.io/Blog/How_to_use_Hexo/"/>
-    <id>http://skpatro.github.io/Blog/How_to_use_Hexo/</id>
+    <link href="https://skpatro.github.io/Blog/How_to_use_Hexo/"/>
+    <id>https://skpatro.github.io/Blog/How_to_use_Hexo/</id>
     <published>2017-07-05T09:13:30.231Z</published>
     <updated>2018-01-31T15:27:37.890Z</updated>
     
@@ -199,7 +199,7 @@ this is comment
     
     </summary>
     
-      <category term="Blog" scheme="http://skpatro.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="https://skpatro.github.io/categories/Blog/"/>
     
     
   </entry>
