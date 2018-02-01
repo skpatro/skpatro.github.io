@@ -22,7 +22,7 @@
     <published>2018-02-01T07:03:31.492Z</published>
     <updated>2018-02-01T10:02:32.495Z</updated>
     
-    <content type="html"><![CDATA[<div class="alert info no-icon"><p>Push to remote and pull to local.</p>
+    <content type="html"><![CDATA[<div class="alert alert-info"><i class="fa fa-info  float-left"></i>  <p>Push to remote and pull to local.</p>
 </div>
 <a id="more"></a>
 <p>Create a repository in github account<br>Keep note of the git repo url</p>
@@ -37,7 +37,7 @@
     
     <summary type="html">
     
-      &lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;Push to remote and pull to local.&lt;/p&gt;
+      &lt;div class=&quot;alert alert-info&quot;&gt;&lt;i class=&quot;fa fa-info  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Push to remote and pull to local.&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
@@ -54,7 +54,7 @@
     <published>2017-07-07T13:12:11.148Z</published>
     <updated>2018-02-01T09:15:53.636Z</updated>
     
-    <content type="html"><![CDATA[<div class="alert danger no-icon"><p>Markdown is an easy to read / write syntax for formatting plain text.</p>
+    <content type="html"><![CDATA[<div class="alert alert-danger"><i class="fa fa-bug  float-left"></i>  <p>Markdown is an easy to read / write syntax for formatting plain text.</p>
 </div>
 <a id="more"></a>
 <p>Markdown basically helps formatting words as bold or italic, adding images, and creating lists. </p>
@@ -73,7 +73,7 @@
     
     <summary type="html">
     
-      &lt;div class=&quot;alert danger no-icon&quot;&gt;&lt;p&gt;Markdown is an easy to read / write syntax for formatting plain text.&lt;/p&gt;
+      &lt;div class=&quot;alert alert-danger&quot;&gt;&lt;i class=&quot;fa fa-bug  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Markdown is an easy to read / write syntax for formatting plain text.&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
@@ -93,7 +93,7 @@
     <content type="html"><![CDATA[<!---
 this is comment
 --->
-<div class="alert info no-icon"><p>Adding google ads in hexo is easy and is theme specific, let’s see</p>
+<div class="alert alert-info"><i class="fa fa-info  float-left"></i>  <p>Adding google ads in hexo is easy and is theme specific, let’s see</p>
 </div>
 <a id="more"></a>
 <p>Create a google adsense account</p>
@@ -108,7 +108,7 @@ this is comment
       &lt;!---
 this is comment
 ---&gt;
-&lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;Adding google ads in hexo is easy and is theme specific, let’s see&lt;/p&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;&lt;i class=&quot;fa fa-info  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Adding google ads in hexo is easy and is theme specific, let’s see&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
@@ -126,7 +126,7 @@ this is comment
     <updated>2018-02-01T09:09:51.080Z</updated>
     
     <content type="html"><![CDATA[<!---![](/images/Me.jpg)--->
-<div class="alert success no-icon"><p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
+<div class="alert alert-success"><i class="fa fa-lightbulb-o  float-left"></i>  <p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
 </div>
 <a id="more"></a>
 <p>.<br>.<br>.<br>.</p>
@@ -140,7 +140,7 @@ this is comment
     <summary type="html">
     
       &lt;!---![](/images/Me.jpg)---&gt;
-&lt;div class=&quot;alert success no-icon&quot;&gt;&lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
+&lt;div class=&quot;alert alert-success&quot;&gt;&lt;i class=&quot;fa fa-lightbulb-o  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
@@ -158,7 +158,7 @@ this is comment
     <updated>2018-01-31T15:27:37.890Z</updated>
     
     <content type="html"><![CDATA[<!---![](/images/CreateABlogUsingHexoandGitHub.JPG)--->
-<div class="alert warning no-icon"><p>Step by step guide to create a blog using <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
+<div class="alert alert-warning"><i class="fa fa-bell  float-left"></i>  <p>Step by step guide to create a blog using <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
 </div>
 <a id="more"></a>
 <p>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
@@ -194,7 +194,7 @@ this is comment
     <summary type="html">
     
       &lt;!---![](/images/CreateABlogUsingHexoandGitHub.JPG)---&gt;
-&lt;div class=&quot;alert warning no-icon&quot;&gt;&lt;p&gt;Step by step guide to create a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
+&lt;div class=&quot;alert alert-warning&quot;&gt;&lt;i class=&quot;fa fa-bell  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Step by step guide to create a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
