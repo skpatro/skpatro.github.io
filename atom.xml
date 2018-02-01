@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sunilpatro1985</title>
+  <title>SKPatro</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://sunilpatro1985.github.io/"/>
-  <updated>2017-07-10T12:09:04.900Z</updated>
-  <id>http://sunilpatro1985.github.io/</id>
+  <link href="http://skpatro.github.io/"/>
+  <updated>2018-02-01T10:02:32.495Z</updated>
+  <id>http://skpatro.github.io/</id>
   
   <author>
-    <name>sunilpatro1985</name>
+    <name>SKPatro</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Know what is github push pull requests</title>
+    <link href="http://skpatro.github.io/github/github-repository-push-pull-requests/"/>
+    <id>http://skpatro.github.io/github/github-repository-push-pull-requests/</id>
+    <published>2018-02-01T07:03:31.492Z</published>
+    <updated>2018-02-01T10:02:32.495Z</updated>
+    
+    <content type="html"><![CDATA[<div class="alert info no-icon"><p>Push to remote and pull to local.</p>
+</div>
+<a id="more"></a>
+<p>Create a repository in github account<br>Keep note of the git repo url</p>
+<p>Go to your computer local drive project folder, then open cmd from there and type<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">git init  </div><div class="line">git remote add origin &lt;url of git repo&gt;  </div><div class="line">git status  //check if modified files waiting to push - red  </div><div class="line">git add .  </div><div class="line">git status //check all modified files are ready to push - green  </div><div class="line">git commit -m &quot;&lt;comment&gt;&quot; //check in but not yet pushed  </div><div class="line">//Make sure your machine ssh key is added under github &gt; profile settings &gt; SSH and GPG keys  </div><div class="line">git push -u origin master</div></pre></td></tr></table></figure></p>
+<h2 id="add-files-to-existing-repo"><a href="#add-files-to-existing-repo" class="headerlink" title="add files to existing repo  "></a>add files to existing repo  </h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">git status  </div><div class="line">git add .  </div><div class="line">git status  </div><div class="line">git commit -m &quot;some comment&quot;  </div><div class="line">git push origin master</div></pre></td></tr></table></figure>
+<h2 id="Copy-from-github-to-local-folder"><a href="#Copy-from-github-to-local-folder" class="headerlink" title="Copy from github to local folder  "></a>Copy from github to local folder  </h2><p>Create a folder on local drive<br>Open cmd from the folder<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone &lt;url of repo&gt;</div></pre></td></tr></table></figure></p>
+<p>Latest file from git repo to local folder [if already copied]<br>make sure you cloned already the project from git repo<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git pull origin master</div></pre></td></tr></table></figure></p>
+<h2 id="Generate-ssh-key"><a href="#Generate-ssh-key" class="headerlink" title="Generate ssh key  "></a>Generate ssh key  </h2><p><a href="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key" target="_blank" rel="external">Generating new ssh key</a>  </p>
+<p><a href="https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/" target="_blank" rel="external">Add ssh key to github account</a></p>
+<p><img src="https://user-images.githubusercontent.com/35997263/35670081-59f3aece-075d-11e8-8bac-3b8c9ec8d559.PNG" alt="Github repo 1st setup"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;Push to remote and pull to local.&lt;/p&gt;
+&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="github" scheme="http://skpatro.github.io/categories/github/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Github text formatting - Markdown References</title>
-    <link href="http://sunilpatro1985.github.io/github/GithubMarkdownReferences/"/>
-    <id>http://sunilpatro1985.github.io/github/GithubMarkdownReferences/</id>
+    <link href="http://skpatro.github.io/github/GithubMarkdownReferences/"/>
+    <id>http://skpatro.github.io/github/GithubMarkdownReferences/</id>
     <published>2017-07-07T13:12:11.148Z</published>
-    <updated>2017-07-10T12:09:04.900Z</updated>
+    <updated>2018-02-01T09:15:53.636Z</updated>
     
     <content type="html"><![CDATA[<div class="alert danger no-icon"><p>Markdown is an easy to read / write syntax for formatting plain text.</p>
 </div>
 <a id="more"></a>
 <p>Markdown basically helps formatting words as bold or italic, adding images, and creating lists. </p>
+<p>Example :</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">&lt;!---This is multi line</div><div class="line">     comment on github pages---&gt;</div></pre></td></tr></table></figure>
+<p>or</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[//]: # (&quot;this is another way of commenting out a statement&quot;)</div></pre></td></tr></table></figure>
 <p>Below are few links that will help you understanding more </p>
 <ul>
 <li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">https://guides.github.com/features/mastering-markdown/</a></li>
@@ -42,53 +78,60 @@
     
     </summary>
     
-      <category term="github" scheme="http://sunilpatro1985.github.io/categories/github/"/>
+      <category term="github" scheme="http://skpatro.github.io/categories/github/"/>
     
     
   </entry>
   
   <entry>
     <title>How to add google adsense to hexo blog</title>
-    <link href="http://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
-    <id>http://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
+    <link href="http://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
+    <id>http://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
     <published>2017-07-06T12:06:45.000Z</published>
-    <updated>2017-07-10T12:09:10.927Z</updated>
+    <updated>2018-02-01T09:09:05.345Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/GoogleAdsenseforHexoblog.jpg" alt=""></p>
-<div class="alert info no-icon"><p>We will see how we can add google adds in to Hexo blog posts</p>
+    <content type="html"><![CDATA[<!---
+this is comment
+--->
+<div class="alert info no-icon"><p>Adding google ads in hexo is easy and is theme specific, let’s see</p>
 </div>
 <a id="more"></a>
 <p>Create a google adsense account</p>
 <p>Create an add unit and get the code</p>
 <p>Then, move to your themes folder &gt; respective theme &gt; layout<br>create a folder <code>googleadds</code><br>create a file under <code>/googleadds</code>, name it <code>headeradd.ejs</code><br>Paste the content copied from add unit in google adsense</p>
-<p><img src="/images/Folder structure for google add setup.JPG" alt=""></p>
+<p><img src="https://user-images.githubusercontent.com/35997263/35670143-93767906-075d-11e8-9aee-f3bde8be39e1.JPG" alt=""></p>
 <p>Now, navigate to layout.ejs and place the below at location where you want to display the add</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;%- partial(&apos;googleadds/headeradd&apos;) %&gt;</div></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/images/GoogleAdsenseforHexoblog.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;We will see how we can add google adds in to Hexo blog posts&lt;/p&gt;
+      &lt;!---
+this is comment
+---&gt;
+&lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;Adding google ads in hexo is easy and is theme specific, let’s see&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
     
-      <category term="Blog" scheme="http://sunilpatro1985.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="http://skpatro.github.io/categories/Blog/"/>
     
     
   </entry>
   
   <entry>
     <title>Who am I</title>
-    <link href="http://sunilpatro1985.github.io/Personal/AboutMe/"/>
-    <id>http://sunilpatro1985.github.io/Personal/AboutMe/</id>
+    <link href="http://skpatro.github.io/Personal/AboutMe/"/>
+    <id>http://skpatro.github.io/Personal/AboutMe/</id>
     <published>2017-07-05T09:28:27.906Z</published>
-    <updated>2017-07-10T12:13:31.399Z</updated>
+    <updated>2018-02-01T09:09:51.080Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/Me.jpg" alt=""><br><div class="alert success no-icon"><p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
-</div><br><a id="more"></a><br>.<br>.<br>.<br>.</p>
+    <content type="html"><![CDATA[<!---![](/images/Me.jpg)--->
+<div class="alert success no-icon"><p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
+</div>
+<a id="more"></a>
+<p>.<br>.<br>.<br>.</p>
 <p><strong><code>QA analyst</code></strong> as full time job </p>
-<p><strong><code>Blogger</code></strong> as part time</p>
+<p><strong><code>Blogger</code></strong> as hobby/interest</p>
 <h2 id="Want-more"><a href="#Want-more" class="headerlink" title="Want more!"></a>Want more!</h2><p><code>Internet surfer</code> who spends free time to know about latest technology and internet trending topics on open source tools across globe.</p>
 <p>Love to spend time with family and friends.</p>
 <p>Any queries, do not hesitate to email me <a href="mailto:sunilpatro1985@gmail.com" target="_blank" rel="external">here</a> </p>
@@ -96,25 +139,29 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/images/Me.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;div class=&quot;alert success no-icon&quot;&gt;&lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
-&lt;/div&gt;&lt;br&gt;
+      &lt;!---![](/images/Me.jpg)---&gt;
+&lt;div class=&quot;alert success no-icon&quot;&gt;&lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
+&lt;/div&gt;
     
     </summary>
     
-      <category term="Personal" scheme="http://sunilpatro1985.github.io/categories/Personal/"/>
+      <category term="Personal" scheme="http://skpatro.github.io/categories/Personal/"/>
     
     
   </entry>
   
   <entry>
     <title>Open source blog making framework - Hexo</title>
-    <link href="http://sunilpatro1985.github.io/Blog/How_to_use_Hexo/"/>
-    <id>http://sunilpatro1985.github.io/Blog/How_to_use_Hexo/</id>
+    <link href="http://skpatro.github.io/Blog/How_to_use_Hexo/"/>
+    <id>http://skpatro.github.io/Blog/How_to_use_Hexo/</id>
     <published>2017-07-05T09:13:30.231Z</published>
-    <updated>2017-07-10T12:11:18.264Z</updated>
+    <updated>2018-01-31T15:27:37.890Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/CreateABlogUsingHexoandGitHub.JPG" alt=""><br><div class="alert warning no-icon"><p>Welcome to my blog to know about a open source blog framework <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
-</div><br><a id="more"></a><br>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
+    <content type="html"><![CDATA[<!---![](/images/CreateABlogUsingHexoandGitHub.JPG)--->
+<div class="alert warning no-icon"><p>Step by step guide to create a blog using <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
+</div>
+<a id="more"></a>
+<p>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
 <p>Find most of your answers in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or ask on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h3><p>Visual studio code<br>Github account<br>Install <a href="https://git-scm.com/" target="_blank" rel="external">git</a><br>Install <a href="https://nodejs.org" target="_blank" rel="external">node.js</a></p>
 <p>Create a folder <strong>say c:\Hexo</strong> on your machine, and open the folder in VSCode, then follow below steps</p>
@@ -126,10 +173,12 @@
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="See-the-blog"><a href="#See-the-blog" class="headerlink" title="See the blog"></a>See the blog</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo server</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a><br>Open browser and type <a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a> to see your blog</p>
+<h3 id="Preview-Drafts"><a href="#Preview-Drafts" class="headerlink" title="Preview Drafts"></a>Preview Drafts</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo server --draft --open</div></pre></td></tr></table></figure>
+<p>Any static files under the _drafts folder will be available to preview on localhost site only</p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deployment-using-github-account"><a href="#Deployment-using-github-account" class="headerlink" title="Deployment using github account"></a>Deployment using github account</h3><p>Create a github repository<br>For my account sunilpatro1985, I will create a repository as <strong>sunilpatro1985.github.io</strong><br>Note: Select public and add.gitignore as <strong>Node</strong></p>
-<p>Site url will be now <strong><a href="https://sunilpatro1985.github.io">https://sunilpatro1985.github.io</a></strong></p>
+<p>Site url will be now <strong><a href="https://sunilpatro1985.github.io" target="_blank" rel="external">https://sunilpatro1985.github.io</a></strong></p>
 <p>but we are not done yet, we have to deploy our blog to git</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install hexo-deployer-git --save</div></pre></td></tr></table></figure>
 <p>Get the repository weburl from github (on the github repository, click on clone or download button and copy the web url)</p>
@@ -144,12 +193,13 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/images/CreateABlogUsingHexoandGitHub.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;div class=&quot;alert warning no-icon&quot;&gt;&lt;p&gt;Welcome to my blog to know about a open source blog framework &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
-&lt;/div&gt;&lt;br&gt;
+      &lt;!---![](/images/CreateABlogUsingHexoandGitHub.JPG)---&gt;
+&lt;div class=&quot;alert warning no-icon&quot;&gt;&lt;p&gt;Step by step guide to create a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
+&lt;/div&gt;
     
     </summary>
     
-      <category term="Blog" scheme="http://sunilpatro1985.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="http://skpatro.github.io/categories/Blog/"/>
     
     
   </entry>
