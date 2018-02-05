@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SKPatro</title>
+  <title>sunilpatro1985</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://skpatro.github.io/"/>
+  <link href="https://sunilpatro1985.github.io/"/>
   <updated>2018-02-01T10:02:32.495Z</updated>
-  <id>https://skpatro.github.io/</id>
+  <id>https://sunilpatro1985.github.io/</id>
   
   <author>
     <name>SKPatro</name>
@@ -17,12 +17,12 @@
   
   <entry>
     <title>Know what is github push pull requests</title>
-    <link href="https://skpatro.github.io/github/github-repository-push-pull-requests/"/>
-    <id>https://skpatro.github.io/github/github-repository-push-pull-requests/</id>
+    <link href="https://sunilpatro1985.github.io/github/github-repository-push-pull-requests/"/>
+    <id>https://sunilpatro1985.github.io/github/github-repository-push-pull-requests/</id>
     <published>2018-02-01T07:03:31.492Z</published>
     <updated>2018-02-01T10:02:32.495Z</updated>
     
-    <content type="html"><![CDATA[<div class="alert info no-icon"><p>Push to remote and pull to local.</p>
+    <content type="html"><![CDATA[<div class="alert alert-info"><i class="fa fa-info  float-left"></i>  <p>Push to remote and pull to local.</p>
 </div>
 <a id="more"></a>
 <p>Create a repository in github account<br>Keep note of the git repo url</p>
@@ -37,24 +37,24 @@
     
     <summary type="html">
     
-      &lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;Push to remote and pull to local.&lt;/p&gt;
+      &lt;div class=&quot;alert alert-info&quot;&gt;&lt;i class=&quot;fa fa-info  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Push to remote and pull to local.&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
     
-      <category term="github" scheme="https://skpatro.github.io/categories/github/"/>
+      <category term="github" scheme="https://sunilpatro1985.github.io/categories/github/"/>
     
     
   </entry>
   
   <entry>
     <title>Github text formatting - Markdown References</title>
-    <link href="https://skpatro.github.io/github/GithubMarkdownReferences/"/>
-    <id>https://skpatro.github.io/github/GithubMarkdownReferences/</id>
+    <link href="https://sunilpatro1985.github.io/github/GithubMarkdownReferences/"/>
+    <id>https://sunilpatro1985.github.io/github/GithubMarkdownReferences/</id>
     <published>2017-07-07T13:12:11.148Z</published>
     <updated>2018-02-01T09:15:53.636Z</updated>
     
-    <content type="html"><![CDATA[<div class="alert danger no-icon"><p>Markdown is an easy to read / write syntax for formatting plain text.</p>
+    <content type="html"><![CDATA[<div class="alert alert-danger"><i class="fa fa-bug  float-left"></i>  <p>Markdown is an easy to read / write syntax for formatting plain text.</p>
 </div>
 <a id="more"></a>
 <p>Markdown basically helps formatting words as bold or italic, adding images, and creating lists. </p>
@@ -73,27 +73,27 @@
     
     <summary type="html">
     
-      &lt;div class=&quot;alert danger no-icon&quot;&gt;&lt;p&gt;Markdown is an easy to read / write syntax for formatting plain text.&lt;/p&gt;
+      &lt;div class=&quot;alert alert-danger&quot;&gt;&lt;i class=&quot;fa fa-bug  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Markdown is an easy to read / write syntax for formatting plain text.&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
     
-      <category term="github" scheme="https://skpatro.github.io/categories/github/"/>
+      <category term="github" scheme="https://sunilpatro1985.github.io/categories/github/"/>
     
     
   </entry>
   
   <entry>
     <title>How to add google adsense to hexo blog</title>
-    <link href="https://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
-    <id>https://skpatro.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
+    <link href="https://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/"/>
+    <id>https://sunilpatro1985.github.io/Blog/Add-GoogleAdds-HexoBlog/</id>
     <published>2017-07-06T12:06:45.000Z</published>
     <updated>2018-02-01T09:09:05.345Z</updated>
     
     <content type="html"><![CDATA[<!---
 this is comment
 --->
-<div class="alert info no-icon"><p>Adding google ads in hexo is easy and is theme specific, let’s see</p>
+<div class="alert alert-info"><i class="fa fa-info  float-left"></i>  <p>Adding google ads in hexo is easy and is theme specific, let’s see</p>
 </div>
 <a id="more"></a>
 <p>Create a google adsense account</p>
@@ -108,25 +108,53 @@ this is comment
       &lt;!---
 this is comment
 ---&gt;
-&lt;div class=&quot;alert info no-icon&quot;&gt;&lt;p&gt;Adding google ads in hexo is easy and is theme specific, let’s see&lt;/p&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;&lt;i class=&quot;fa fa-info  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Adding google ads in hexo is easy and is theme specific, let’s see&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
     
-      <category term="Blog" scheme="https://skpatro.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="https://sunilpatro1985.github.io/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Customize windows cmd appearance</title>
+    <link href="https://sunilpatro1985.github.io/WinOS/Customize_win_cmd_appearance/"/>
+    <id>https://sunilpatro1985.github.io/WinOS/Customize_win_cmd_appearance/</id>
+    <published>2017-07-06T12:06:45.000Z</published>
+    <updated>2018-02-05T11:10:45.071Z</updated>
+    
+    <content type="html"><![CDATA[<div class="alert alert-warning"><i class="fa fa-bell  float-left"></i>  <p>Will change command prompt appearance like background and text color </p>
+</div>
+<a id="more"></a>
+<h3 id="Open-cmd-properties"><a href="#Open-cmd-properties" class="headerlink" title="Open cmd properties"></a>Open cmd properties</h3><p><img src="https://user-images.githubusercontent.com/35997263/35801422-5b0da58e-0a92-11e8-816a-0cab905d8c45.png" alt="cmd properties"></p>
+<p>Click on properties<br>Navigate to different tabs and change options as you need</p>
+<p><img src="https://user-images.githubusercontent.com/35997263/35801469-877762a4-0a92-11e8-8174-4d4fe9a8473d.png" alt="cmd color change"></p>
+<h3 id="After-editing"><a href="#After-editing" class="headerlink" title="After editing"></a>After editing</h3><p><img src="https://user-images.githubusercontent.com/35997263/35801479-8fd1fe78-0a92-11e8-9891-1b2533a8db06.png" alt="cmd customized"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;alert alert-warning&quot;&gt;&lt;i class=&quot;fa fa-bell  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Will change command prompt appearance like background and text color &lt;/p&gt;
+&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="WinOS" scheme="https://sunilpatro1985.github.io/categories/WinOS/"/>
     
     
   </entry>
   
   <entry>
     <title>Who am I</title>
-    <link href="https://skpatro.github.io/Personal/AboutMe/"/>
-    <id>https://skpatro.github.io/Personal/AboutMe/</id>
+    <link href="https://sunilpatro1985.github.io/Personal/AboutMe/"/>
+    <id>https://sunilpatro1985.github.io/Personal/AboutMe/</id>
     <published>2017-07-05T09:28:27.906Z</published>
     <updated>2018-02-01T09:09:51.080Z</updated>
     
     <content type="html"><![CDATA[<!---![](/images/Me.jpg)--->
-<div class="alert success no-icon"><p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
+<div class="alert alert-success"><i class="fa fa-lightbulb-o  float-left"></i>  <p>Myself <strong>Sunil</strong>, not enough, right!, know more!</p>
 </div>
 <a id="more"></a>
 <p>.<br>.<br>.<br>.</p>
@@ -140,25 +168,25 @@ this is comment
     <summary type="html">
     
       &lt;!---![](/images/Me.jpg)---&gt;
-&lt;div class=&quot;alert success no-icon&quot;&gt;&lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
+&lt;div class=&quot;alert alert-success&quot;&gt;&lt;i class=&quot;fa fa-lightbulb-o  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Myself &lt;strong&gt;Sunil&lt;/strong&gt;, not enough, right!, know more!&lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
     
-      <category term="Personal" scheme="https://skpatro.github.io/categories/Personal/"/>
+      <category term="Personal" scheme="https://sunilpatro1985.github.io/categories/Personal/"/>
     
     
   </entry>
   
   <entry>
     <title>Open source blog making framework - Hexo</title>
-    <link href="https://skpatro.github.io/Blog/How_to_use_Hexo/"/>
-    <id>https://skpatro.github.io/Blog/How_to_use_Hexo/</id>
+    <link href="https://sunilpatro1985.github.io/Blog/How_to_use_Hexo/"/>
+    <id>https://sunilpatro1985.github.io/Blog/How_to_use_Hexo/</id>
     <published>2017-07-05T09:13:30.231Z</published>
     <updated>2018-01-31T15:27:37.890Z</updated>
     
     <content type="html"><![CDATA[<!---![](/images/CreateABlogUsingHexoandGitHub.JPG)--->
-<div class="alert warning no-icon"><p>Step by step guide to create a blog using <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
+<div class="alert alert-warning"><i class="fa fa-bell  float-left"></i>  <p>Step by step guide to create a blog using <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! </p>
 </div>
 <a id="more"></a>
 <p>Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. </p>
@@ -178,7 +206,7 @@ this is comment
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deployment-using-github-account"><a href="#Deployment-using-github-account" class="headerlink" title="Deployment using github account"></a>Deployment using github account</h3><p>Create a github repository<br>For my account sunilpatro1985, I will create a repository as <strong>sunilpatro1985.github.io</strong><br>Note: Select public and add.gitignore as <strong>Node</strong></p>
-<p>Site url will be now <strong><a href="https://sunilpatro1985.github.io" target="_blank" rel="external">https://sunilpatro1985.github.io</a></strong></p>
+<p>Site url will be now <strong><a href="https://sunilpatro1985.github.io">https://sunilpatro1985.github.io</a></strong></p>
 <p>but we are not done yet, we have to deploy our blog to git</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install hexo-deployer-git --save</div></pre></td></tr></table></figure>
 <p>Get the repository weburl from github (on the github repository, click on clone or download button and copy the web url)</p>
@@ -194,12 +222,12 @@ this is comment
     <summary type="html">
     
       &lt;!---![](/images/CreateABlogUsingHexoandGitHub.JPG)---&gt;
-&lt;div class=&quot;alert warning no-icon&quot;&gt;&lt;p&gt;Step by step guide to create a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
+&lt;div class=&quot;alert alert-warning&quot;&gt;&lt;i class=&quot;fa fa-bell  float-left&quot;&gt;&lt;/i&gt;  &lt;p&gt;Step by step guide to create a blog using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
 &lt;/div&gt;
     
     </summary>
     
-      <category term="Blog" scheme="https://skpatro.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="https://sunilpatro1985.github.io/categories/Blog/"/>
     
     
   </entry>
