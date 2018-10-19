@@ -1,0 +1,77 @@
+---
+layout: default  
+title: Registration Form    
+---
+
+<form id="form1" >
+
+<fieldset id="regform"><legend><b>[Dummy Controls]</b></legend>
+<div id="container">
+<h3>Work on these below dummy controls to learn automation testing</h3><br/>
+Find the hidden text below:
+<div id="hidden_div" style="visibility: hidden;">I am hidden</div><br/>
+
+<div class="line"><label id="lblname" for="name">Full Name</label><input id="username" class="EnterText" name="uname" type="text" /></div><br />
+
+<div class="line"><label for="email">Email</label><input id="email" type="text" /></div><br />
+
+<div class="line"><label for="tel">Telephone: </label><input id="tel" type="text" /></div><br />
+
+<div class="line"><label for="fax">Fax No.: </label><input id="fax" disabled="disabled" type="text" /></div><br />
+
+<div><label>Upload your profile:</label><input multiple="multiple" name="datafile" size="40" type="file" /></div><br />
+
+<div><label for="experience">Gender:</label>
+<select name="sgender">
+<option value="select">Select:</option>
+<option value="male">Male</option>
+<option value="female">Female</option>
+<option value="na">Not Applicable</option>
+</select>
+</div><br />
+
+<div><label for="experience">Years of Experience:</label>
+<input name="experience" type="radio" value="one" />1
+<input name="experience" type="radio" value="two" />2
+<input name="experience" type="radio" value="three" />3
+<input name="experience" type="radio" value="four" />4
+<input name="experience" type="radio" value="five" />5
+<input name="experience" type="radio" value="six" />6
+<input name="experience" type="radio" value="seven" />7
+<input name="experience" type="radio" value="above seven" />Above 7</div><br />
+
+<div><label for="skills">Skills:</label>
+<input id="ip" name="language" type="checkbox" value="TestingBasics" />ManualTesting
+<input id="ip" name="language" type="checkbox" value="Selenium" />AutomationTesting
+<input id="ip" name="language" type="checkbox" value="HTML" />HTML
+<input id="ip" name="language" type="checkbox" value="Java" />Java
+<input id="ip" name="language" type="checkbox" value="C#" />C#</div><br />
+
+<label for="tools">Automation Tools:</label>
+<select id="tools" multiple="multiple">
+<option class="ui-widget-content" value="qtp">QTP</option>
+<option class="ui-widget-content" value="selenium">Selenium</option>
+<option class="ui-widget-content" value="white">TestStackWhite</option>
+<option class="ui-widget-content" value="jmeter">JMeter</option>
+<option class="ui-widget-content" value="telerik">TelerikStudio</option>
+<option class="ui-widget-content" value="codedui">CodedUI</option>
+</select><br /><br />
+
+<div class="linesubmit" style="text-align: center;">
+<input class="btn" name="commit" type="submit" onclick="MySubmit()"></input>
+</div>
+<script>
+function MySubmit() {
+    alert("Registration Done!");
+}
+</script><br/>
+
+Note: Please make sure your details are correct before submitting form!
+<br/>
+<div style="text-align: center;"><a href="http://www.qavalidation.com" target="_blank">Tutorials!</a>
+</div>
+
+</fieldset>
+</form>&nbsp;
+
+</div>
